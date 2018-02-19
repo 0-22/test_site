@@ -7,3 +7,4 @@ public_folder: "../images/uploads"
 
 collections:
   - name: "posts" # Used in routes, ie.: /admin/collections/:slug/edit
+  folder: "_posts"
